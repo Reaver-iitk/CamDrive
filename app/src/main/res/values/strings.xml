@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CamDrive</string>
+    <string name="title_home">Камеры</string>
+    <string name="title_setting">Настройки</string>
+    <string name="title_profile">Профиль</string>
+    <string name="wait">Подождите минутку</string>
+    <string name="enter">Вход в систему:</string>
+    <string name="check">Проверьте интернет соединение</string>
+    <string name="close">Нажмите ещё раз чтобы закрыть приложение!</string>
+    <string name="validate">Заполнены не все поля</string>
+    <string name="authError">Ошибка авторизации</string>
+    <string name="nameUser">Имя пользователя: </string>
+    <string name="exit">Выход из пользователя</string>
+    <string name="dislogin">Успешный выход из пользователя</string>
+    <string name="online">Онлайн</string>
+    <string name="offline">Оффлайн</string>
+    <string name="colorCam">Настройка цвета камер:</string>
+    <string name="camColorNow">Текущий цвет камер:</string>
+    <string name="update">Данные обновляются раз в 10 секунд</string>
+    <string name="error_server">Ошибка соединения с сервером. Повторите попытку</string>
+    <string name="name_user">Имя пользователя</string>
+    <string name="password_user">Пароль</string>
+    <string name="autorization">Авторизация</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".fragment.SettingFragment">
+    <LinearLayout
+        android:layout_marginBottom="35dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <TextView
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/camColorNow" />
+        <Button
+            android:layout_marginLeft="3dp"
+            android:id="@+id/colorNow"
+            android:layout_width="35dp"
+            android:layout_height="35dp">
+        </Button>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <TextView
+        android:gravity="center"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/colorCam" />
+
+        <Button
+            android:id="@+id/colorBlack"
+            android:layout_marginLeft="3dp"
+            android:background="@drawable/round_button_bk"
+            android:layout_width="25dp"
+            android:layout_height="25dp">
+        </Button>
+        <Button
+            android:id="@+id/colorBlue"
+            android:background="@drawable/round_button_bl"
+            android:layout_marginLeft="3dp"
+            android:layout_width="25dp"
+            android:layout_height="25dp">
+        </Button>
+
+        <Button
+            android:id="@+id/colorGreen"
+            android:background="@drawable/round_button_gr"
+            android:layout_marginLeft="3dp"
+            android:layout_width="25dp"
+            android:layout_height="25dp">
+        </Button>
+
+        <Button
+            android:id="@+id/colorRed"
+            android:background="@drawable/round_button_rd"
+            android:layout_marginLeft="3dp"
+            android:layout_width="25dp"
+            android:layout_height="25dp">
+        </Button>
+
+
+    </LinearLayout>
+
+</LinearLayout>

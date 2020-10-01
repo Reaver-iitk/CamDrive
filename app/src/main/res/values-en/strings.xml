@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CamDrive</string>
+    <string name="title_home">Cameras</string>
+    <string name="title_setting">Customization</string>
+    <string name="title_profile">Profile</string>
+    <string name="wait">Wait a minute</string>
+    <string name="enter">Login:</string>
+    <string name="check">Check your internet connection</string>
+    <string name="close">Click again to close the application!</string>
+    <string name="validate">Not all fields are filled</string>
+    <string name="authError">Authorisation Error</string>
+    <string name="nameUser">Username:</string>
+    <string name="exit">Log out user</string>
+    <string name="dislogin">Successful logout</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="colorCam">Camera color setting:</string>
+    <string name="camColorNow">Current color of cameras:</string>
+    <string name="update">Data is updated every 10 seconds</string>
+    <string name="error_server">Server connection error. Try again</string>
+    <string name="name_user">Username</string>
+    <string name="password_user">Password</string>
+    <string name="autorization">Authorization</string>
+</resources>
